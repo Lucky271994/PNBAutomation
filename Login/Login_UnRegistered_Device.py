@@ -1,14 +1,3 @@
-afsagsdsd
-delattrvsd
-
-dsvdsfdsfsd
-git 
-dsfdsfds
-asfknsafmsa
-sdfsdgsd
-asfjasfnda
-
-
 # Import necessary modules
 from tkinter import simpledialog
 import tkinter as tk
