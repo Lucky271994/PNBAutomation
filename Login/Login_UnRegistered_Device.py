@@ -1,8 +1,3 @@
-bbbbb
-askfndskgnsdf
-adfsdgds
-jsdngjds
-
 # Import necessary modules
 from tkinter import simpledialog
 import tkinter as tk
